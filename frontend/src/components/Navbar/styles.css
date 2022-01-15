@@ -4,7 +4,6 @@ header {
     display: flex;    
     align-items: center;
 }
-
 .dsmovie-nav-content {
     display: flex;
     justify-content: space-between;
